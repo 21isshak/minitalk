@@ -1,2 +1,2 @@
 # minitalk
-minitalk project as a part of 42 Warsaw core curriculum made by iskaraag
+This project has been created as part of 42 core cirriculm by iskaraag
